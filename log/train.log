@@ -1,0 +1,3 @@
+2020-08-17 10:39:07,995 - E:\project_github\NER-ALBERT-BiLSTM-CRF\log\train.log - INFO - Created model with fresh parameters.
+2020-08-17 10:39:08,388 - E:\project_github\NER-ALBERT-BiLSTM-CRF\log\train.log - INFO - start training
+2020-08-17 11:05:27,954 - E:\project_github\NER-ALBERT-BiLSTM-CRF\log\train.log - INFO - iteration:1 step:100/163, NER loss: 8.419016

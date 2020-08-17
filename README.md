@@ -47,6 +47,7 @@
 创建albert_model路径，将预训练好的albert模型放到这个路径下解压<br />
 具体结构如下：
 <img src="imgs/struct.png">
+<br />
 python3 run.py --mode xxx <br />
 xxx: train/test/demo，默认为demo
 
@@ -59,4 +60,5 @@ xxx: train/test/demo，默认为demo
 
 ## 5、参考
 [1] https://github.com/yumath/bertNER
+
 [2] https://github.com/google-research/bert
